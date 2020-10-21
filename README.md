@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### to use this project...
+1. Create a react app using create-react-app
+2. Copy the public, src and .env.local file to the new project overwriting it.
+3. Create a firebase app and store the app details in the .env.local file
+4. start the app
+
+
 ## Available Scripts
 
 In the project directory, you can run:
